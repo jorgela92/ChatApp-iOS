@@ -1,6 +1,6 @@
 # ChatApp-iOS
 
-Application ChatApp made in Swift with pattern MVVM and Firebase using:
+Application ChatApp made in Swift 5 with pattern MVVM and Firebase using:
 
 - Firebase Authentication for user authentication.
 - Cloud Storage for image storage.
